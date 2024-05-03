@@ -1,0 +1,43 @@
+article{
+    background-color: white;
+}
+ 
+section{
+    margin-top: 12vh;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+article.news{
+    border-radius: 3px;
+}
+article.news  img#principal{
+    width: 100%;
+    height: 70vh;
+} 
+article.news img#secundaria{
+    width: 70%;
+    height: 70vh; 
+    
+} 
+article.news h1{
+    font-size: 2rem;
+    text-align: justify;
+    margin-left: 2%;
+    margin-right: 2%;
+    
+} 
+article.news p{
+    font-size: 1.3rem; 
+    text-align: justify;
+    margin-left: 2%;
+    margin-right: 2%;
+    
+} 
+article.news p li{
+    font-size: 1.3rem; 
+    text-align: justify;
+    margin-left: 2%;
+    margin-right: 2%; 
+    
+} 
